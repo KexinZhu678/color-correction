@@ -1,7 +1,7 @@
 # underwater color-correction approach
 # Code
 1. If the article "Robust Color Correction for Avoiding Red Artifacts and Restoring Natural Colors in Underwater Images", the code will be made public.
-#2. The code has been tested on Windows 11 64bit with MATLAB 2021a.
+
 
 # Usage
 1. Place the image to be tested into the 'test' folder.
